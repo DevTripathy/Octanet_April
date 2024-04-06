@@ -1,8 +1,6 @@
 # MU TRAVELLER
 ### An attractive Trip Planing Landing page.
 
-[**Visit the live website**](youtube.com)
-
 ## Languages Used
 > HTML
 
